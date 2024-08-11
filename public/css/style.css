@@ -50,7 +50,9 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: space-evenly ;
+    
 }
+
 
 .listing-card {
     border: none !important;
